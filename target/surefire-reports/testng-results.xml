@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="org.ravi.helloworld.HelloTest" duration-ms="5737" started-at="2018-03-29T09:55:17Z" finished-at="2018-03-29T09:55:23Z">
+  <suite name="org.ravi.helloworld.HelloTest" duration-ms="11018" started-at="2019-09-06T09:06:26Z" finished-at="2019-09-06T09:06:38Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="5737" started-at="2018-03-29T09:55:17Z" finished-at="2018-03-29T09:55:23Z">
+    <test name="Command line test" duration-ms="11018" started-at="2019-09-06T09:06:26Z" finished-at="2019-09-06T09:06:38Z">
       <class name="org.ravi.helloworld.HelloTest">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:org.ravi.helloworld.HelloTest@2d3fcdbd]" name="beforeTest" is-config="true" duration-ms="5234" started-at="2018-03-29T15:25:17Z" finished-at="2018-03-29T15:25:22Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:org.ravi.helloworld.HelloTest@2d3fcdbd]" name="beforeTest" is-config="true" duration-ms="10274" started-at="2019-09-06T14:36:26Z" finished-at="2019-09-06T14:36:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="f()[pri:0, instance:org.ravi.helloworld.HelloTest@2d3fcdbd]" name="f" duration-ms="1" started-at="2018-03-29T15:25:23Z" finished-at="2018-03-29T15:25:23Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:org.ravi.helloworld.HelloTest@2d3fcdbd]" name="f" duration-ms="1" started-at="2019-09-06T14:36:37Z" finished-at="2019-09-06T14:36:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:org.ravi.helloworld.HelloTest@2d3fcdbd]" name="afterTest" is-config="true" duration-ms="484" started-at="2018-03-29T15:25:23Z" finished-at="2018-03-29T15:25:23Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:org.ravi.helloworld.HelloTest@2d3fcdbd]" name="afterTest" is-config="true" duration-ms="725" started-at="2019-09-06T14:36:37Z" finished-at="2019-09-06T14:36:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
